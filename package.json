@@ -1,0 +1,13 @@
+{
+  "name": "aswathy",
+  "description": "Sample NodeJS Library",
+  "version": "0.0.1",
+  "author": {
+    "name": "Aswathy P R",
+    "email": "aswathy@toobler.com"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    
+  }
+}
